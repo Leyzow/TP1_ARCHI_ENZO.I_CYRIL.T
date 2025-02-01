@@ -45,7 +45,7 @@ JMS est une **API Java standardisée** permettant aux applications de communique
     - **Exemple d’usage** : Diffuser une notification de commande expédiée à tous les clients abonnés.
 
 ### 3.2. Middlewares Orientés Messages (MOM)
-D'après le support académique **"Middlewares Orientés Messages (MOM)"** ([28]), les MOM sont des systèmes permettant une **communication asynchrone** entre applications. Ils se basent sur des **queues de messages persistantes** et assurent un **découplage temporel** entre émetteur et récepteur.
+D'après le support académique **"Middlewares Orientés Messages (MOM)"**, les MOM sont des systèmes permettant une **communication asynchrone** entre applications. Ils se basent sur des **queues de messages persistantes** et assurent un **découplage temporel** entre émetteur et récepteur.
 
 Les principaux concepts abordés sont :
 - **Files de messages (Message Queueing)** : Assurent un acheminement fiable des messages entre applications.
@@ -89,8 +89,8 @@ Grâce aux notions de **messagerie asynchrone, découplage des services et scala
 ## 6. Références
 
 ### Supports Académiques Utilisés :
-1. **Introduction aux Architectures de Systèmes d’Information** - Salim Bouzitouna, basé sur les supports de Jacques Augustin & Reda Bendraou ([27]).
-2. **Middlewares Orientés Messages (MOM)** - Ada Diaconescu, Télécom Paris ([28]).
+1. **Introduction aux Architectures de Systèmes d’Information** - Salim Bouzitouna, basé sur les supports de Jacques Augustin & Reda Bendraou.
+2. **Middlewares Orientés Messages (MOM)** - Ada Diaconescu, Télécom Paris.
 
 Ces supports nous ont permis de mieux comprendre :
 - L’importance des **architectures orientées services**.
